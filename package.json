@@ -20,7 +20,7 @@
     "eslint-config-problems": "^1.1.0"
   },
   "dependencies": {
-    "@node-sc2/proto": "^0.5.7",
+    "@node-sc2/proto": "ssh://git@github.com:sliftist/proto.git#master",
     "bluebird": "^3.5.3",
     "bresenham": "0.0.4",
     "chalk": "^2.4.1",
